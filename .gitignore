@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+venv/
+pre-venv/
+env/
+ENV/
+
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Distribution / packaging
+.dist/
+
+# PDF temp files (if any are persisted)
+*.tmp
+pre-auth_test-docs/
